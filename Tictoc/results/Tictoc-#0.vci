@@ -1,0 +1,24 @@
+file 3492 1519555385                                            
+version 2
+run Tictoc-0-20180225-11:43:00-7948
+attr configname Tictoc
+attr datetime 20180225-11:43:00
+attr experiment Tictoc
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Tictoc
+attr processid 7948
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param Tictoc.tic.delayTime 0ms
+param Tictoc.toc.delayTime1 0ms
+param Tictoc.tic.limit 200
+
+vector 0 Tictoc.tic "" ETV
+0	486 3004 2 398 0.2 39.8 199 0.2 0.2 39.8 7.96
+
